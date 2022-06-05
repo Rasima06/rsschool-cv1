@@ -34,19 +34,19 @@ I want to work in IT. I am going to be a Frontend Developer. It's my goal. My go
 
 Task from CODEWARS: This code does not execute properly. Try to figure out why.
 
-`function multiply(a, b){
+`function multiply(a, b){`
 
-  a * b
+  `a * b`
 
-}`
+`}`
 
 **correctly:**
 
-`function multiply(a, b){
+`function multiply(a, b){`
 
-  return a * b
+  `return a * b`
 
-}`
+`}`
 
 
 ## Courses:
