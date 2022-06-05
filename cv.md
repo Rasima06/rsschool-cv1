@@ -1,10 +1,10 @@
-#**Rasima** Izhdavletova
+#**Rasima Izhdavletova
 
-##**Junior** Frontend Developer
+##**Junior Frontend Developer
 
-##**Contact** information:
+##**Contact information:
 
-###**Phone:** +7 937 847 60 56
-###**Discord:** Rasima(@Rasima06)###
-###**E-mail:** rasimaizdavletova@gmail.com###
+###**Phone: +7 937 847 60 56
+     Discord: Rasima(@Rasima06)
+     E-mail: rasimaizdavletova@gmail.com
 
